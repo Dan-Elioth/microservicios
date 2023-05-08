@@ -1,5 +1,5 @@
 server:
-  port: 8083
+  port: 8098
 
 spring:
   application:
@@ -8,10 +8,10 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/noetipo/microservicios.git
+          uri: https://github.com/Dan-Elioth/microservicios.git
           searchPaths: config-data
-          username: noetipo
-          password: Tipo47259697
+          username: Dan-Elioth
+          password: 108091
           default-label: main
 
 
