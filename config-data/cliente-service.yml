@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 9696
 spring:
   jpa:
     hibernate.ddl-auto: update
